@@ -1,0 +1,7 @@
+id,name,email,password_hash
+1,Test,test@gmail.com,$2b$10$bu/ggFPRCrhlsIrVwVbJ2exz11KUEyAolvC9rXNX4a1fPN37cADii
+4,Test2,test2@gmail.com,$2b$10$5YUU4kwc0AGrjWxxB5MyMOYtljOqC7v4VYKX3FqJ74d/6ZjSlYZCW
+5,test4,test4@gmail.com,$2b$10$oBtX6NX4zyHaz4t05S3IjOlyJKT21e5l/dTipkrrqWNLzjLfqjRiK
+63,test@gmail.com,test@gm,$2b$10$H5XX19n37rWqx0hj.SpxE.14ShEIIS03AeJhnqfgoYqrTSw.9.gzm
+66,sobaka@gmail.com,sobaka@gmail.com,$2b$10$jE0uRvRY47r/7YrHZ36ZQ.mlD1vcPJtm.ekb1jm0JHUO5tBX2z51G
+68,Test@fjskfjkf,Test@fjskfjkf,$2b$10$0DYHTboHoP7uuDtgxA10u.TT30BBKXFf3JR04sues0.Kevy6UI/i2
